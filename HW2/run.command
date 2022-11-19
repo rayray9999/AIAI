@@ -1,0 +1,1 @@
+python main.py --model_type ngram --preprocess 1 --part 2
